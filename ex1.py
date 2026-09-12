@@ -5,6 +5,7 @@
 # step-5 : in order to call the method first call the **CLASS**
 class basic:
     def greet(self):
+        print('gm')s
         print('good morning')
 obj = basic()
 obj.greet()
